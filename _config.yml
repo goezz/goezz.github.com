@@ -9,7 +9,7 @@
 title: goea
 email: eg@goez.my.id
 description: > # this means to ignore newlines until "baseurl:"
-  Just another note of goez
+  Just another blog goez ea
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://goez.ga" # the base hostname & protocol for your site
 permalink: /:title.xhtml

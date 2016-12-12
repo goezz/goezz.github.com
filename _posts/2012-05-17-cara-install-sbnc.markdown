@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Im Not Understanding"
-date:   2012-04-19 22:27:21 -0500
-categories: Intermezzo
+title:  "Cara install sBNC"
+date:   2012-05-17 22:27:21 -0500
+categories: sbnc
 ---
-I just ask about you, do yo not remembers anything about me?
+cara install sbnc itu mudah,, simak di tulisan saya dahulu <a href="http://ciutirc.blogspot.com/2011/03/cara-install-shroudbnc-sbnc.html">di sini</a>
