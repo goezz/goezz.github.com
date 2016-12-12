@@ -16,8 +16,8 @@ cd znc-1.4<br>
 ./configure --prefix=$HOME --enable-extra<br>
 make<br>
 make install<br>
-./znc -c<br>
-<code>
+./znc -c
+</code>
 <br>
 jawab beberapa pertanyaan (mohon di baca dan di pehatikan)<br>
 pertanyaan paling akhir, jalankan znc sekarang?? jawab yes ea<br>
