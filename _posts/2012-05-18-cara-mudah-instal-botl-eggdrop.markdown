@@ -7,17 +7,16 @@ categories: eggdrop
 Login ke vps / shell kalian..<br>
 <br>
 ambil filenya dengan cara:<br>
-<code>wget ftp://ftp.eggheads.org/pub/eggdrop/source/1.6/eggdrop1.6.21.tar.gz</code>
+<code>wget ftp://ftp.eggheads.org/pub/eggdrop/source/1.6/eggdrop1.6.21.tar.gz</code><br>
 setelah selesai... extract file nya dengan cara<br>
 <code>tar zxf eggdrop1.6.21.tar.gz</code>
-<br>>setelah itu masuk folder eggdrop dengan perintah<br>
+<br>setelah itu masuk folder eggdrop dengan perintah<br>
 <code>cd eggdrop1.6.21</code><br>
 setelah berada pada folder eggdrop1.6.21 saatnya mulai kompile dengan perintah² berikut:<br>
 <code>./configure</code><br>
-<code>make
-make install</code>
+<code>make && make install</code>
 <br>setelah semua done,, silahkan anda masuk folder eggdrop dengan perintah<br>
-<code>cd ~/eggdrop<code>
+<code>cd ~/eggdrop</code>
 <br>di sini anda harus menyiapkan:<br>
 <br>
 <strong>1 file konfig *<br>
