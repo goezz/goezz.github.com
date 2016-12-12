@@ -14,14 +14,14 @@ masuk directory psybnc<br>
 kompile pertama (ini penting)<br>
 jika anda menginginkan user lebih dari 50 karena untuk default max usernya 50 anda bisa kompile dengan cara<br>
 <code>make menuconfig</code><br>
-<strong>Catatan:</strong></span> tidak semua shell / vps sudah terinstall curses, jika anda menemukan masalah error seperti ini:<br>
+<strong>Catatan:</strong> tidak semua shell / vps sudah terinstall curses, jika anda menemukan masalah error seperti ini:<br>
 <i>This needs the ncurses library. If it is not available, menuconf wont work. If you are using curses, use make menuconfig-curses instead.<br>
 make: *** [menuconfig] Error 1</i><br>
 ini sebabnya pada server anda tidak terinstall <em><a href="http://eg-goez.blogspot.com/2014/05/installing-libncurses5-dev-centos-debian.html">libncurses</a>,</em> jika anda pemegang root, ada baiknya anda <a href="http://eg-goez.blogspot.com/2014/05/installing-libncurses5-dev-centos-debian.html">install <em>libncurses5-dev</em></a> dahulu, tapi meskipun anda melewati ini, proses installasi tetap bisa di jalankan, hanya anda tidak bisa enable untuk bagian misal SSL Support / Identd / Max Users, tapi jangan worry, dont khawatir, anda bisa merubah manual,,<br>
 jalankan saja perintah make menuconfig seperti di atas,, lalu edit file <strong>config.h<br></strong>dengan cara:<br>
 <code>nano config.h</code><br>
 cari tulisan ini<br>
-<pre>#define MAXUSER 50</pre><br>
+<pre>#define MAXUSER 50</pre>
 ganti 50 dengan sembarang dehh.. 99999 juga boleh,, tapi # jangan di apus ea..<br>
 setelah oke,, simpan dengan cara tekan<br>
 CRTL+X (yes)<br>
