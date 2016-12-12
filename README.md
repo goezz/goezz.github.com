@@ -1,2 +1,1 @@
-# goezz.github.com
-test page
+MyWapBlog is DEAD 😳
