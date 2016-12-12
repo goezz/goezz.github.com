@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tentang goez
+title: Abot
 permalink: /about.xhtml
 ---
 
@@ -13,7 +13,6 @@ permalink: /about.xhtml
 	<strong>Lokasi: </strong>Jember<br>
 	
 	<strong>Blog: </strong><a href="http://www.goez.ga/">goea</a><br>
-	<strong>Kategori Blog: </strong><a href="http://www.mywapblog.com/blog_catalog.php?show=category&amp;sort_by=recent&amp;category=hobbies-and-life-style" rel="nofollow">Hobbies and Life Style</a><br>
 	
 	<strong>Tentang Saya: </strong>goto http://goez.my.id/about<br>
 	
