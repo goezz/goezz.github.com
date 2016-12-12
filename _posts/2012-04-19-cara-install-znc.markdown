@@ -23,5 +23,5 @@ jawab beberapa pertanyaan (mohon di baca dan di pehatikan)<br>
 pertanyaan paling akhir, jalankan znc sekarang?? jawab yes ea<br>
 kalo dc cukup run lg dengan<br>
 <code>./znc</code><br>
-tapi, jangan lupa untuk rajin <code>/znc saveconfig</code></em> (buat admin)<br>
+tapi, jangan lupa untuk rajin <code>/znc saveconfig</code>(buat admin)<br>
 biar ga nyesel di kemudian waktu 😅  kalau bingung coba baca tulisan gw yang lebih detai <a href="http://ciutirc.blogspot.com/2014/10/tutorial-cara-install-znc-pada-root-dengam-mudah.html">di sini</a>. Untuk cara Load External modul <a href="http://eg-goez.blogspot.com/2014/09/tutorial-menambah-external-modules-pada-znc.html">di sini</a>. Untuk cara Update ZNC klik <a href="http://eg-goez.blogspot.com/2014/10/tutorial-update-upgrade-version-znc.html">di sini</a>.
