@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about.xhtml
+permalink: /about
 ---
 
 <h2 class="title">Tentang goez</h2>
