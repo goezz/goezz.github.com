@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: Tentang goez
+permalink: /about.xhtml
 ---
 
-<h2 class="title">Tentang goez</h2>
-    <div class="entry">
-      
-      <p>
+<h2>Tentang goez</h2>
 	
 	<img src="http://goez.yu.tl/files/und.jpg" alt="Foto profil goez" title="goez"><br>
 	
@@ -26,8 +23,7 @@ permalink: /about
       </p>
 	  
 	  <h3><a name="blogroll" class="no-link">Blogroll goez</a></h3>
-      <ol>
-	
+   	
 	<li><a href="http://eggoez.com">g0eZ egGo</a></li>
 	
 	<li><a href="http://ciutirc.blogspot.com">#ciut Blog</a></li>
