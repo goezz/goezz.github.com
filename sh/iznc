@@ -4,7 +4,7 @@ chmod 644 ~/.oidentd.conf
 chmod 711 ~
 touch ~/.ident
 chmod 644 ~/.ident
-wget http://geocities.ws/ciut/dok/znc-1.4.tar.gz
+wget https://github.com/znc/znc/archive/znc-1.4.tar.gz
 tar zxf znc-1.4.tar.gz
 cd znc-1.4
 ./configure --prefix=$HOME --enable-extra
