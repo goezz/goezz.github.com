@@ -10,7 +10,7 @@ Login vps / shell<br>
 jangan di root ea.. <span style="text-decoration:line-through;">coz kalo di root gabisa</span>,, bisa sih ada <a href="http://ciutirc.blogspot.com/2014/10/tutorial-cara-install-znc-pada-root-dengam-mudah.html">caranya sendiri</a> dengan yum install znc, tapi saya jelaskan di bukan root,, dan saya bingung LOL<br>
 btw, kujelaskan urut²anya aja tanpa basi bosa ea.. dah gede dah pada tau kan..<br>
 <br>
-<code>wget http://znc.in/releases/znc-1.4.tar.gz<br>
+<code>wget http://geocities.ws/ciut/dok/znc-1.4.tar.gz<br>
 tar zxf znc-1.4.tar.gz<br>
 cd znc-1.4<br>
 ./configure --prefix=$HOME --enable-extra<br>
