@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 title: Abot
 permalink: /about.xhtml
 ---
