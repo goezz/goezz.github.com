@@ -1,7 +1,7 @@
 ---
-layout: none
+layout: default
 title: Abot
 permalink: /about.xhtml
 ---
-ke goez.my.id/about
+About saya bisa di baca di sini <a href="goez.my.id/about">goez.my.id/about"</a>.
 
